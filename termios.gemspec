@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-  s.name = %q{ruby-termios}
+  s.name = %q{termios}
   s.version = "0.9.6"
   s.date = %q{2009-08-28}
 
